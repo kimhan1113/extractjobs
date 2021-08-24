@@ -26,6 +26,8 @@ func main() {
 	// fmt.Println(len(files))
 	// os.Exit(3)
 
+	fmt.Println("hi")
+
 	if err != nil {
 		log.Fatal(err)
 	}
